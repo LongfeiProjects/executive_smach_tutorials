@@ -4,7 +4,7 @@ import rospy
 import smach
 import smach_ros
 
-from smach_tutorials.msg import TestAction, TestGoal
+from actionlib.msg import TestAction, TestGoal
 from actionlib import *
 from actionlib_msgs.msg import *
 
